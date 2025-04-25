@@ -1,4 +1,6 @@
 ---
+layout: default
+title: Squirrel Theme
 ---
 
 # squirrel-theme
